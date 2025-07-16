@@ -19,7 +19,7 @@ python paracuda.py
 
 ## Screenshot
 
-![Screenshot of Paracuda III](screenshot_paracuda.png)
+<img src="screenshot_paracuda.png" width="500" height="400">
 
 ## License
 
