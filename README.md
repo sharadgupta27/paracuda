@@ -2,6 +2,21 @@
 
 Paracuda is a tool designed for analyzing spectral data and developing prediction models. The entry point for the tool is `paracuda.py`.
 
+## Dependencies
+
+The tool uses several python packages which are provided in requirements.txt file. You can install it using pip:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the tool:
+```bash
+python paracuda.py
+```
+
 ## Screenshot
 
 ![Screenshot of Paracuda III](screenshot.png)
@@ -15,9 +30,9 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 If you use this software in your research, please cite:
 
 ```
-@software{spectral_analyzer_2024,
+@software{Paracuda2024,
 author = {Sharad Kumar Gupta},
-title = {Spectral Analyzer: A Tool for Spectral Data Analysis and Prediction},
+title = {Paracuda: A Tool for Spectral Data Analysis and Prediction},
 year = {2024},
 institution = {Helmholtz Centre for Environmental Research, Leipzig, Germany},
 url = {https://github.com/sharadgupta27/paracuda}
