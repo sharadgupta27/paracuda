@@ -1,6 +1,6 @@
 # Paracuda III
 
-Paracuda is a tool designed for analyzing spectral data and developing prediction models. The entry point for the tool is `paracuda.py`.
+Paracuda is a tool designed for analyzing spectral data and developing prediction models.
 
 ## Dependencies
 
@@ -30,10 +30,10 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 If you use this software in your research, please cite:
 
 ```
-@software{Paracuda2024,
+@software{Paracuda2025,
 author = {Sharad Kumar Gupta},
 title = {Paracuda: A Tool for Spectral Data Analysis and Prediction},
-year = {2024},
+year = {2025},
 institution = {Helmholtz Centre for Environmental Research, Leipzig, Germany},
 url = {https://github.com/sharadgupta27/paracuda}
 }
